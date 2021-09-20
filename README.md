@@ -1,4 +1,4 @@
 Name TANG Zichen
 
 SID 20677378
-![screenshot](mylab1.png)
+![image of screenshot](./mylab1.png)
